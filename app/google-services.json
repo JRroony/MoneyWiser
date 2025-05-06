@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977761990476",
+    "project_id": "moneywiser-d1b78",
+    "storage_bucket": "moneywiser-d1b78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977761990476:android:225b16ae6a222eab7d01e9",
+        "android_client_info": {
+          "package_name": "com.funplux.moneywiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977761990476-movcq1jm8uhos195s75k0ic1n5k73jhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7AQtRxynUDnWM1Ppn9kaLRPofIPWYWZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977761990476-movcq1jm8uhos195s75k0ic1n5k73jhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
